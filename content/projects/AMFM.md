@@ -1,12 +1,12 @@
 ---
 date: '2017-11-01'
-title: 'Apple Music Facebook Messenger Integration'
+title: 'Movies Hub'
 github: ''
-external: 'https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming'
+external: ''
 tech:
-  - Ember
+  - API
   - JS
-  - SCSS
+  - Bootstrap
 company: 'Apple'
 showInProjects: true
 ---
