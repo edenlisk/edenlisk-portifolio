@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'School Library Management System'
-cover: './demo.png'
+cover: './library-front-page.PNG'
 github: 'https://github.com/edenlisk/library-management-system-front-end'
 backend: 'https://github.com/edenlisk/library-management-system-backend'
 external: 'https://library-management-system-lc5l.onrender.com/'

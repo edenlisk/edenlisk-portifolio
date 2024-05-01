@@ -169,8 +169,6 @@ const About = () => {
     'Deployment': ['Docker', 'Amazon-EC2', 'CI/CD Pipeline', 'GitHub Actions', 'Amazon S3'],
     'Familiar Languages': ['C++', 'Python', 'WordPress', 'Ruby on Rails'],
   };
-  // const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Next.js', 'Node.js', 'Express', 'MongoDB', 'Mongoose', 'MySQL', 'TailwindCSS', 'Java', 'Spring boot 3'];
-  // const familiar = ['C++', 'Python', 'Ruby', 'Ruby On Rails', 'WordPress'];
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
       <h2 className="numbered-heading">About Me</h2>
@@ -182,7 +180,7 @@ const About = () => {
               Hi! I'm a full-stack developer with a bit of experience in creating and developing modern web apps.
               I graduated from Microverse, an online software development school where different developers across
               the globe work on various real-world projects in a remote environment. I am currently pursuing Software
-              Engineering at Adventist University of Central Africa.
+              Engineering Bachelors Degree at Adventist University of Central Africa.
             </p>
 
             <p>

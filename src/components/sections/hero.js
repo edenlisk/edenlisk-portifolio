@@ -65,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        Full Stack web developer who values accessible design and clean code. An enthusiast for remote work
+        Fullstack software developer who values accessible design and clean code. An enthusiast for remote work
         and pair programming. Prepared to ramp up rapidly and effectively, and fluent in a variety of
         languages, frameworks, and technologies.
       </p>

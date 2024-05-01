@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Project Management Tool'
-cover: './course-card.png'
+cover: './project-management-demo.png'
 github: 'https://github.com/edenlisk/project-management-tool-backend'
 #external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
 #cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'

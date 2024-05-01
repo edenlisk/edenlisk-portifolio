@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Mineral Traceability & Inventory Management Software'
-cover: './halcyon.png'
+cover: './mining-front-page.PNG'
 github: 'https://github.com/ijosue16/mining-database'
 backend: 'https://github.com/edenlisk/mining-company-management-system-backend'
 external: 'https://mining-database-web-app.onrender.com/login'
