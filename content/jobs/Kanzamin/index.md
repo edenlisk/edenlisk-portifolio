@@ -1,7 +1,7 @@
 ---
 date: '2018-05-14'
 title: 'Software Developer'
-company: 'Kanzamin'
+company: 'Kanzamin LTD'
 location: 'Kigali, Rwanda'
 range: '2023 - 2024'
 #url: ''
