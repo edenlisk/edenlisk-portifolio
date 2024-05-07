@@ -164,7 +164,7 @@ const About = () => {
     'Database': ['MongoDB', 'MySQL', 'PostgresSQL'],
     'Frameworks': ['React', 'Next.js', 'Spring Boot 3'],
     'Data Visualization': ['Tableau', 'Apache Echarts'],
-    'Libraries': ['Material-UI', 'TailwindCSS', 'Expressjs', 'Mongoose', 'Syncfusion', 'ant design'],
+    'Libraries': ['Graphql', 'Material-UI', 'TailwindCSS', 'Expressjs', 'Mongoose', 'Syncfusion', 'ant design', 'Figma'],
     'Professional': ['Remote Pair-Programming', 'Teamwork', 'Communication Skills'],
     'Deployment': ['Docker', 'Amazon-EC2', 'CI/CD Pipeline', 'GitHub Actions', 'Amazon S3'],
     'Familiar Languages': ['C++', 'Python', 'WordPress', 'Ruby on Rails'],
